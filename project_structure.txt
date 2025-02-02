@@ -1,0 +1,27 @@
+.
+├── eslint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── project_structure.txt
+├── server
+│   └── index.js
+├── src
+│   ├── App.tsx
+│   ├── components
+│   │   ├── DataTable.tsx
+│   │   ├── ErrorModal.tsx
+│   │   └── FileUpload.tsx
+│   ├── index.css
+│   ├── main.tsx
+│   ├── types
+│   │   └── index.ts
+│   └── vite-env.d.ts
+├── tailwind.config.js
+├── tsconfig.app.json
+├── tsconfig.json
+├── tsconfig.node.json
+└── vite.config.ts
+
+5 directories, 20 files
