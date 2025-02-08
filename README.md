@@ -2,8 +2,6 @@
 
 **Excel Wizard** is a powerful web application that allows users to upload, validate, and import data from Excel files into a MongoDB database. With features like drag-and-drop file upload, data preview, error handling, and pagination, **Excel Wizard** makes data management simple and intuitive for businesses.
 
--Deployed Link - https://excel-wizard.vercel.app/
-
 -Demo Video - https://drive.google.com/file/d/1QoZNqsZhRAWHHLYNldVqqez7lXSJBSsx/view?usp=sharing
 
 ## Overview
