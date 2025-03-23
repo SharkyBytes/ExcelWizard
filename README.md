@@ -6,7 +6,7 @@
 
 ## Overview
 
-Excel Wizard simplifies the process of handling Excel files by providing an easy-to-use interface for validating data, previewing it before import, and efficiently storing it in a MongoDB database. Built with **React.js** on the frontend and **Node.js/Express.js** on the backend, this app makes working with Excel files a breeze! 🌟
+Excel Wizard simplifies the process of handling Excel files by providing an easy-to-use interface for validating data, previewing it before import, and efficiently storing it in a MongoDB database. Built with **React.js** on the frontend and **Node.js/Express.js** on the backend, this app makes working with Excel files a breeze!🌟
 
 ## Features 🚀
 
